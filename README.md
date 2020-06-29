@@ -3,11 +3,11 @@ ReadMe for Winter Coat Color Polymorphisms Identify Global Hotspots for Evolutio
 
 2018-1-2
 
-This readme file describes the data files and code accompanying the above publication.  For any further queries please contact Scott.mills@mso.umt.edu.
+This readme file describes the data files and code accompanying the above publication.
 
 The following files are included:
 
-1)  "Mills_data_final_2018.xlsx" 
+1)  "Data_final_2018.xlsx" 
 This is the data used to build models predicting the probability of winter white for each species across their range. It is needed to run the R script. Column descriptions are as follows: 
 
 OBJECTID_1 - unique object identifier
