@@ -6,7 +6,7 @@ This readme file describes the data files and code accompanying the above public
 
 The following files are included:
 
-1)  "Mills_data_final_2018.xlsx" 
+1)  "Data_final_2018.xlsx" 
 This is the data used to build models predicting the probability of winter white for each species across their range. It is needed to run the R script. Column descriptions are as follows: 
 
 OBJECTID_1 - unique object identifier
@@ -39,7 +39,7 @@ humanfp - human footprint indexed from Global Human Influence Index, v2 [1995 â€
 
 
 2)  "rasterstack4cov.tif"
-This is the a raster stack of the three covariates (bio_2, bio_3 & snow) used in making the winter white probability maps. It is needed to run the R script. 
+This is the a raster stack of the three covariates (bio_2, bio_3 & snow) used in making the winter white probability maps. It is needed to run the R script. It can be downloaded here: https://datadryad.org/stash/dataset/doi:10.5061/dryad.8m0p1
 
 
 3)  "global_phenology_final_script.R"
