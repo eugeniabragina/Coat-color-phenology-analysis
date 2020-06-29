@@ -40,7 +40,7 @@ humanfp - human footprint indexed from Global Human Influence Index, v2 [1995 â€
 
 
 2)  "rasterstack4cov.tif"
-This is the a raster stack of the three covariates (bio_2, bio_3 & snow) used in making the winter white probability maps. It is needed to run the R script. 
+This is the a raster stack of the three covariates (bio_2, bio_3 & snow) used in making the winter white probability maps. It is needed to run the R script. It can be downloaded from a repository at https://datadryad.org/stash/dataset/doi:10.5061/dryad.8m0p1.
 
 
 3)  "global_phenology_final_script.R"
