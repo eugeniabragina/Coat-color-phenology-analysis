@@ -1,5 +1,6 @@
-Coat-color-phenology-analysis
-This project investigated areas where we need to protect winter-white animals first. Species like hares, ptarmigans, Arctic fox and other turn white for winter. With less and less snow in warming climate, these species are mismatched and noticable to predators. Populations in which at least some animals retain summer colors have better chances to survive, especially if evolution works fast enough to propagate these 'summer color' genes. In this work, we outline hot spots for evolution to do its work. Protection of these spots is what needs to be done to help winter-white species to survive in a quickly changing environment. 
+#Coat-color-phenology-analysis
+
+Species like hares, ptarmigans, Arctic fox and other turn white for winter. With less and less snow in warming climate, these species are mismatched and noticable to predators. Populations in which at least some animals retain summer colors have better chances to survive, especially if evolution works fast enough to propagate these 'summer color' genes. In this work, we outline hot spots for evolution to do its work. Protection of these spots is what needs to be done to help winter-white species to survive in a quickly changing environment. 
 
 For details, see our paper: 'Winter Coat Color Polymorphisms Identify Global Hotspots for Evolutionary Rescue from Climate Change', Mills, Bragina, Kumar, Zimova, Lafferty, Feltner, Davis, Hacklander, Alves, Good, Melo-Ferreira, Dietz, Abramov, Lopatina, Fay.
 
