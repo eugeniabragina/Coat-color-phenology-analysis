@@ -1,5 +1,5 @@
-setwd("C:/Users/ak222730/Desktop/RWDLAB/Phenology")
-data = read.csv('Mills_data_final_2018.csv', header = T, sep = ',')
+setwd()
+data = read.csv('Data_final_2018.csv', header = T, sep = ',')
 
 data = subset(data, data$colorSymbol == 1 | data$colorSymbol == 2)
 levels(data$colorSymbol) <- c(levels(data$colorSymbol), 0) 
